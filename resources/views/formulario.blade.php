@@ -27,6 +27,7 @@
     @endif
     
     
+    
 
     <div class="card text-center mb-5">
         <div class="display-6 card-header"> Ingresa los siguientes datos </div>
